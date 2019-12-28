@@ -20,14 +20,17 @@ public class BackgroundPlaying extends GameObject {
         images.add(SpriteUtils.loadImage("assets/images/background/background_playing/static/static1.png"));
         this.renderer = new Animation(images);
         this.velocity.set(0, 0);
-        this.position.set(Settings.SCREEN_WIDTH / 2
-                , Settings.SCREEN_HEIGHT / 2);
+        this.position.set(Settings.SCREEN_WIDTH / 2, Settings.SCREEN_HEIGHT / 2);
     }
     @Override
     public void run(){
         super.run();
 
         if(Player1.plateNumber == 0 || Player2.plateNumber == 0){
+            Player1.plateNumber = 3;
+            Player2.plateNumber = 3;
+            Player1.stamina = 16;
+            Player2.stamina = 16;
             SceneManager.signNewScene(new SceneGameOver());
         }
     }

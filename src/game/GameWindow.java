@@ -25,6 +25,7 @@ public class GameWindow extends JFrame {
     public static boolean isEnterPress;
     public static boolean isbkSpacePress;
 
+    public static boolean isAnyKeyPress;
 
     // attributes
     public GamePanel gamePanel;
@@ -56,11 +57,13 @@ public class GameWindow extends JFrame {
 
     private void setupListener() {
         this.addKeyListener(new KeyAdapter() {
+
             @Override
             public void keyTyped(KeyEvent e) {
             }
             @Override
             public void keyPressed(KeyEvent e) {
+                isAnyKeyPress = true;
                 if(e.getKeyCode() == KeyEvent.VK_W){
                     isWPress = true;
                 }
@@ -100,6 +103,7 @@ public class GameWindow extends JFrame {
             }
             @Override
             public void keyReleased(KeyEvent e) {
+                isAnyKeyPress = false;
                 if(e.getKeyCode() == KeyEvent.VK_W){
                     isWPress = false;
                 }

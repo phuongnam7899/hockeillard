@@ -1,7 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Hockeillard:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="0e3b58f2-46e9-4a73-b4bc-93bf7e38c647" name="Default Changelist" comment="" />
+    <list default="true" id="0e3b58f2-46e9-4a73-b4bc-93bf7e38c647" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/Hockeillard_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/Hockeillard_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/bullet/Player1Bullet/SCREEN 2-23.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/bullet/Player1Bullet/SCREEN 2-23.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/bullet/Player2Bullet/SCREEN 2-16.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/bullet/Player2Bullet/SCREEN 2-16.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/player/player1/SCREEN 2-18.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/player/player1/SCREEN 2-18.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/player/player2/SCREEN 2-17.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/player/player2/SCREEN 2-17.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hockeillard/game/GamePanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hockeillard/game/GamePanel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hockeillard/game/GameWindow$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hockeillard/game/GameWindow$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hockeillard/game/GameWindow$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hockeillard/game/GameWindow$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hockeillard/game/GameWindow.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hockeillard/game/GameWindow.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hockeillard/game/game_objects/background/BackgroundGameOver.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hockeillard/game/game_objects/background/BackgroundGameOver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hockeillard/game/game_objects/background/BackgroundPlaying.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hockeillard/game/game_objects/background/BackgroundPlaying.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hockeillard/game/game_objects/bot/hole_keeper/HoleKeeperSummoner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hockeillard/game/game_objects/bot/hole_keeper/HoleKeeperSummoner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hockeillard/game/game_objects/bot/tornado/Tornado.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hockeillard/game/game_objects/bot/tornado/Tornado.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hockeillard/game/game_objects/bullet/Bullet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hockeillard/game/game_objects/bullet/Bullet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hockeillard/game/game_objects/bullet/BulletPlayer1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hockeillard/game/game_objects/bullet/BulletPlayer1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hockeillard/game/game_objects/bullet/BulletPlayer2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hockeillard/game/game_objects/bullet/BulletPlayer2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hockeillard/game/game_objects/hole/Hole.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hockeillard/game/game_objects/hole/Hole.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hockeillard/game/game_objects/plate/Plate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hockeillard/game/game_objects/plate/Plate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hockeillard/game/game_objects/player/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hockeillard/game/game_objects/player/Player.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hockeillard/game/game_objects/player/Player1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hockeillard/game/game_objects/player/Player1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hockeillard/game/game_objects/player/Player2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hockeillard/game/game_objects/player/Player2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hockeillard/game/scene/Scene.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hockeillard/game/scene/Scene.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hockeillard/game/scene/SceneGameOver.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hockeillard/game/scene/SceneGameOver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hockeillard/game/scene/SceneMenu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hockeillard/game/scene/SceneMenu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hockeillard/game/scene/ScenePlaying.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hockeillard/game/scene/ScenePlaying.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/game/GamePanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/GamePanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/game/GameWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/GameWindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/game/game_objects/background/BackgroundGameOver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/game_objects/background/BackgroundGameOver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/game/game_objects/background/BackgroundMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/game_objects/background/BackgroundMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/game/game_objects/background/BackgroundPlaying.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/game_objects/background/BackgroundPlaying.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/game/game_objects/bot/hole_keeper/HoleKeeperSummoner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/game_objects/bot/hole_keeper/HoleKeeperSummoner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/game/game_objects/bot/tornado/Tornado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/game_objects/bot/tornado/Tornado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/game/game_objects/bullet/Bullet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/game_objects/bullet/Bullet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/game/game_objects/bullet/BulletPlayer1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/game_objects/bullet/BulletPlayer1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/game/game_objects/bullet/BulletPlayer2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/game_objects/bullet/BulletPlayer2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/game/game_objects/hole/Hole.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/game_objects/hole/Hole.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/game/game_objects/plate/Plate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/game_objects/plate/Plate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/game/game_objects/player/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/game_objects/player/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/game/game_objects/player/Player1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/game_objects/player/Player1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/game/game_objects/player/Player2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/game_objects/player/Player2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/game/scene/Scene.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/scene/Scene.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/game/scene/SceneGameOver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/scene/SceneGameOver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/game/scene/SceneMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/scene/SceneMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/game/scene/ScenePlaying.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/scene/ScenePlaying.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,25 +71,29 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Tb850eOaDOcL1MYlYSTpAaRBwj" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="game.game_objects.player" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Java\Hockeillard" />
+      <recent name="E:\Java\Hockeillard\src" />
+      <recent name="E:\Java\Hockeillard\.idea" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\Java\GunFighter\assets\images\goal" />
       <recent name="E:\Java\GunFighter\assets\images\player\player1" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\Java\Hockeillard" />
-      <recent name="E:\Java\Hockeillard\src" />
-      <recent name="E:\Java\Hockeillard\.idea" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="game.game_objects.player" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -53,7 +108,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Hockeillard">
+    <configuration name="Hockeillard (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hockeillard" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Hockeillard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Hockeillard" />
       <module name="Hockeillard" />
@@ -64,6 +125,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Hockeillard" />
+        <item itemvalue="Application.Hockeillard (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -79,5 +141,18 @@
       <updated>1573717247202</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

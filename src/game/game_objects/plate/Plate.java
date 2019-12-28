@@ -8,9 +8,11 @@ import game.game_objects.GameObject;
 import game.game_objects.bot.hole_keeper.HoleKeeper;
 import game.game_objects.player.Player;
 import interfaces.Physics;
+import libs.AudioUtils;
 import libs.SpriteUtils;
 import game.renderer.Animation;
 
+import javax.sound.sampled.Clip;
 import java.awt.image.BufferedImage;
 import java.util.ArrayList;
 
@@ -61,6 +63,7 @@ public class Plate extends GameObject implements Physics {
         this.playerBounce();
         this.plateBounce();
         this.holeKeeperBounce();
+
     }
 
     private void holeKeeperBounce() {
@@ -70,6 +73,8 @@ public class Plate extends GameObject implements Physics {
             Vector2D otherPosition = new Vector2D(holeKeeper.position.x,holeKeeper.position.y);
             Vector2D addVector = thisPosition.subtract(otherPosition);
             this.velocity.add(addVector.setLength(holeKeeper.velocity.getLength() * (float)1.5));
+            Clip sfx = AudioUtils.loadSound("assets/sound/Screen2/disk_to_everything.wav");
+            sfx.start();
         }
     }
 
@@ -82,6 +87,8 @@ public class Plate extends GameObject implements Physics {
             this.velocity.add(addVector.setLength(otherPlate.velocity.getLength()));
             otherPlate.position.subtract(addVector.setLength(5));
             otherPlate.velocity.subtract(addVector);
+            Clip sfx = AudioUtils.loadSound("assets/sound/Screen2/disk_to_everything.wav");
+            sfx.start();
         }
     }
 
@@ -93,6 +100,8 @@ public class Plate extends GameObject implements Physics {
             Vector2D addVector = thisPosition.subtract(playerPosition);
             this.velocity.add(addVector.setLength(player.velocity.getLength() * (float) 1.5));
             player.position.subtract(addVector.setLength(10));
+            Clip sfx = AudioUtils.loadSound("assets/sound/Screen2/disk_to_everything.wav");
+            sfx.start();
         }
     }
     public void reset(){
@@ -106,10 +115,14 @@ public class Plate extends GameObject implements Physics {
     }
     public void wallBounce(){
         if ((this.position.y >= Settings.PLAYGROUND_BOT - Settings.PLAYER_RADIUS) || this.position.y <= Settings.PLAYGROUND_TOP + Settings.PLAYER_RADIUS) {
-            this.velocity.symmetryX();
+            this.velocity.symmetryX().setLength(3);
+            Clip sfx = AudioUtils.loadSound("assets/sound/Screen2/disk_to_everything.wav");
+            sfx.start();
         }
         if ((this.position.x <= Settings.PLAYGROUND_LEFT + Settings.PLAYER_RADIUS) || (this.position.x >= Settings.PLAYGROUND_RIGHT - Settings.PLAYER_RADIUS) ) {
-                this.velocity.symmetryY();
+                this.velocity.symmetryY().setLength(3);
+            Clip sfx = AudioUtils.loadSound("assets/sound/Screen2/disk_to_everything.wav");
+            sfx.start();
             }
     }
 

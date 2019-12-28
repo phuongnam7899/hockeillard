@@ -19,7 +19,7 @@ public class HoleKeeperSummoner extends  GameObject {
         holeKeeper3.position.set(Settings.PLAYGROUND_LEFT + 75,Settings.PLAYGROUND_BOT - 75);
         holeKeeper3.velocity.set(1,1).setLength(2);
         HoleKeeper holeKeeper4 = GameObject.recycle(HoleKeeper.class);
-        holeKeeper4.position.set(Settings.PLAYGROUND_RIGHT - 75,Settings.PLAYGROUND_BOT - 150);
+        holeKeeper4.position.set(Settings.PLAYGROUND_RIGHT - 75,Settings.PLAYGROUND_BOT - 75);
         holeKeeper4.velocity.set(-1,1).setLength(2);
     }
 }

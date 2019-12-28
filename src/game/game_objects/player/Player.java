@@ -18,8 +18,8 @@ import java.util.ArrayList;
         ArrayList<BufferedImage> images = new ArrayList<>();
         public FrameCounter velocityCounter = new FrameCounter(4);
         public FrameCounter sprintCounter = new FrameCounter(30);
-        public FrameCounter fireCounter = new FrameCounter(1);
-        public FrameCounter staminaRecoverCounter = new FrameCounter(120);
+        public FrameCounter fireCounter = new FrameCounter(60);
+        public FrameCounter staminaRecoverCounter = new FrameCounter(60);
 
         public int maxVelocity;
         public Player() {

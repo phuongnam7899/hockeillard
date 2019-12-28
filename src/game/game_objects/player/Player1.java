@@ -2,8 +2,11 @@ package game.game_objects.player;
 import game.GameWindow;
 import game.game_objects.bullet.BulletPlayer1;
 import game.game_objects.GameObject;
+import libs.AudioUtils;
 import libs.SpriteUtils;
 import game.renderer.Animation;
+
+import javax.sound.sampled.Clip;
 
 public class Player1 extends Player {
     public static int plateNumber = 3;
@@ -37,17 +40,25 @@ public class Player1 extends Player {
                 bullet.velocity.set(this.velocity);
                 System.out.println(GameObject.gameObjects.size());
                 this.fireCounter.reset();
+                Clip sfx = AudioUtils.loadSound("assets/sound/Screen2/P1shoot2.wav");
+                sfx.start();
             }
         }
     }
 
     private void sprint() {
-        if(GameWindow.isShiftPress && Player1.stamina > 0){
+        if(GameWindow.isShiftPress){
             if(this.sprintCounter.run()){
-                Player1.stamina--;
-                this.velocity.setLength(this.velocity.getLength() + 3);
-                this.maxVelocity = 10;
-                this.sprintCounter.reset();
+                if(Player1.stamina > 0){
+                    Player1.stamina -= 3;
+                    this.velocity.setLength(this.velocity.getLength() + 10);
+                    this.maxVelocity = 20;
+                    this.sprintCounter.reset();
+                }else {
+                    Clip sfx = AudioUtils.loadSound("assets/sound/Screen2/last_disk_before_end_screen.wav");
+                    sfx.start();
+                }
+
             }
         }else {
             this.maxVelocity = 5;

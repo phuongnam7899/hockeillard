@@ -9,8 +9,10 @@ import game.game_objects.plate.Plate;
 import game.game_objects.player.Player;
 import game.renderer.Animation;
 import interfaces.Physics;
+import libs.AudioUtils;
 import libs.SpriteUtils;
 
+import javax.sound.sampled.Clip;
 import java.awt.image.BufferedImage;
 import java.util.ArrayList;
 
@@ -74,6 +76,8 @@ public class Tornado extends GameObject implements Physics {
                 Vector2D tornadoPosition = tornado.position.clone() ;
                 target.position.set(tornadoPosition);
                 target.isTeleportable = false;
+                Clip sfx = AudioUtils.loadSound("assets/sound/Screen2/into_tornado.wav");
+                sfx.start();
             }
         }
     }

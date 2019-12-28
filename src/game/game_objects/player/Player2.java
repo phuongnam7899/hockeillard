@@ -3,8 +3,11 @@ package game.game_objects.player;
 import game.GameWindow;
 import game.game_objects.bullet.BulletPlayer2;
 import game.game_objects.GameObject;
+import libs.AudioUtils;
 import libs.SpriteUtils;
 import game.renderer.Animation;
+
+import javax.sound.sampled.Clip;
 
 public class Player2 extends Player {
     public static int plateNumber = 3;
@@ -69,6 +72,8 @@ public class Player2 extends Player {
                 bullet.velocity.set(this.velocity);
                 System.out.println(GameObject.gameObjects.size());
                 this.fireCounter.reset();
+                Clip sfx = AudioUtils.loadSound("assets/sound/Screen2/P2shoot2.wav");
+                sfx.start();
             }
         }
     }

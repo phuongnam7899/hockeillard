@@ -8,8 +8,10 @@ import game.game_objects.GameObject;
 import game.game_objects.plate.Plate;
 import game.renderer.Animation;
 import interfaces.Physics;
+import libs.AudioUtils;
 import libs.SpriteUtils;
 
+import javax.sound.sampled.Clip;
 import java.awt.image.BufferedImage;
 import java.util.ArrayList;
 
@@ -59,6 +61,8 @@ public class Bullet extends GameObject implements Physics {
             Vector2D addVector = thisPosition.subtract(otherPosition);
             plate.velocity.subtract(addVector.setLength(10));
             this.deactive();
+            Clip sfx = AudioUtils.loadSound("assets/sound/Screen2/disk_to_everything.wav");
+            sfx.start();
         }
     }
     @Override

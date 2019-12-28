@@ -11,8 +11,12 @@ import game.game_objects.plate.Plate;
 import game.game_objects.plate.PlateSummoner;
 import game.game_objects.player.Player1;
 import game.game_objects.player.Player2;
+import libs.AudioUtils;
+
+import javax.sound.sampled.Clip;
 
 public class ScenePlaying extends Scene {
+    public static Clip sound;
     @Override
     public void init() {
         GameObject.recycle(BackgroundPlaying.class);
@@ -30,8 +34,14 @@ public class ScenePlaying extends Scene {
         TornadoSummoner tornadoSummoner = GameObject.recycle(TornadoSummoner.class);
         tornadoSummoner.initTorrnado();
 
-//        this.sound = AudioUtils.loadSound("assets/music/bgm/playing.wav");
-//        this.sound.start();
+        this.sound = AudioUtils.loadSound("assets/sound/Screen2/screen2_BGM.wav");
+        this.sound.loop(5);
+    }
+    @Override
+    public void clear() {
+        GameObject.clearAll();
+        GameObject.deActiveAll();
+        this.sound.stop();
     }
 
 }

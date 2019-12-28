@@ -4,7 +4,10 @@ import game.Vector2D;
 import game.game_objects.GameObject;
 import game.game_objects.player.Player2;
 import game.renderer.Animation;
+import libs.AudioUtils;
 import libs.SpriteUtils;
+
+import javax.sound.sampled.Clip;
 
 public class BulletPlayer1 extends Bullet {
     public BulletPlayer1() {
@@ -19,7 +22,10 @@ public class BulletPlayer1 extends Bullet {
             Vector2D playerPosition = new Vector2D(player.position.x,player.position.y);
             Vector2D addVector = thisPosition.subtract(playerPosition);
             player.velocity.subtract(addVector.setLength(10));
-//            this.deactive();
+            this.deactive();
+            System.out.println("hit");
+            Clip sfx = AudioUtils.loadSound("assets/sound/Screen2/Bullet_to_player.wav");
+            sfx.start();
         }
     }
     @Override

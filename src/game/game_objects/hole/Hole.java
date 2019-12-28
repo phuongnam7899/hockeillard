@@ -8,8 +8,10 @@ import game.game_objects.player.Player1;
 import game.game_objects.player.Player2;
 import game.renderer.Animation;
 import interfaces.Physics;
+import libs.AudioUtils;
 import libs.SpriteUtils;
 
+import javax.sound.sampled.Clip;
 import java.awt.image.BufferedImage;
 import java.util.ArrayList;
 
@@ -34,6 +36,14 @@ public class Hole extends GameObject implements Physics {
             if(plate.teamNumber == 1) Player1.plateNumber--;
             else Player2.plateNumber--;
             plate.deactive();
+            if(Player1.plateNumber == 1 || Player2.plateNumber == 1){
+                Clip sfx = AudioUtils.loadSound("assets/sound/Screen2/last_disk_before_end_screen.wav");
+                sfx.start();
+            }else {
+                Clip sfx = AudioUtils.loadSound("assets/sound/Screen2/disk_to_hole.wav");
+                sfx.start();
+            }
+
         }
     }
     @Override
