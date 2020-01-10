@@ -9,49 +9,318 @@
     <list default="true" id="0e3b58f2-46e9-4a73-b4bc-93bf7e38c647" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/artifacts/Hockeillard_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/Hockeillard_jar.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/bullet/Player1Bullet/SCREEN 2-23.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/bullet/Player1Bullet/SCREEN 2-23.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/bullet/Player2Bullet/SCREEN 2-16.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/bullet/Player2Bullet/SCREEN 2-16.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/player/player1/SCREEN 2-18.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/player/player1/SCREEN 2-18.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/player/player2/SCREEN 2-17.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/player/player2/SCREEN 2-17.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hockeillard/game/GamePanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hockeillard/game/GamePanel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hockeillard/game/GameWindow$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hockeillard/game/GameWindow$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/Hockeillard.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_1/player1win_00000.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_1/player1win_00001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_1/player1win_00002.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_1/player1win_00003.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_1/player1win_00004.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_1/player1win_00005.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_1/player1win_00006.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_1/player1win_00007.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_1/player1win_00008.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_1/player1win_00009.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_1/player1win_00010.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_1/player1win_00011.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_1/player1win_00012.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_1/player1win_00013.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_1/player1win_00014.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_1/player1win_00015.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_1/player1win_00016.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_1/player1win_00017.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_1/player1win_00018.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_1/player1win_00019.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_1/player1win_00020.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_1/player1win_00021.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_1/player1win_00022.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_1/player1win_00023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_1/player1win_00024.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_1/player1win_00025.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_1/player1win_00026.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_1/player1win_00027.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_1/player1win_00028.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_1/player1win_00029.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_1/player1win_00030.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_1/player1win_00031.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_1/player1win_00032.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_1/player1win_00033.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_1/player1win_00034.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_1/player1win_00035.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_1/player1win_00036.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_1/player1win_00037.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_1/player1win_00038.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_1/player1win_00039.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_1/player1win_00040.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_1/player1win_00041.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_1/player1win_00042.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_1/player1win_00043.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_1/player1win_00044.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_1/player1win_00045.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_1/player1win_00046.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_1/player1win_00047.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_1/player1win_00048.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_1/player1win_00049.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_1/player1win_00050.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_1/player1win_00051.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_1/player1win_00052.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_1/player1win_00053.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_1/player1win_00054.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_1/player1win_00055.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_1/player1win_00056.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_1/player1win_00057.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_1/player1win_00058.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_1/player1win_00059.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_1/player1win_00060.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_1/player1win_00061.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_1/player1win_00062.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_1/player1win_00063.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_1/player1win_00064.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_1/player1win_00065.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_1/player1win_00066.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_1/player1win_00067.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_1/player1win_00068.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_1/player1win_00069.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_1/player1win_00070.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_1/player1win_00071.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_1/player1win_00072.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_1/player1win_00073.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_1/player1win_00074.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_1/player1win_00075.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_1/player1win_00076.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_1/player1win_00077.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_1/player1win_00078.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_1/player1win_00079.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_1/player1win_00080.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_1/player1win_00081.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_1/player1win_00082.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_1/player1win_00083.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_1/player1win_00084.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_1/player1win_00085.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_1/player1win_00086.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_1/player1win_00087.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_1/player1win_00088.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_1/player1win_00089.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_2/player2win_00000.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_2/player2win_00001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_2/player2win_00002.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_2/player2win_00003.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_2/player2win_00004.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_2/player2win_00005.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_2/player2win_00006.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_2/player2win_00007.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_2/player2win_00008.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_2/player2win_00009.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_2/player2win_00010.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_2/player2win_00011.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_2/player2win_00012.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_2/player2win_00013.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_2/player2win_00014.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_2/player2win_00015.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_2/player2win_00016.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_2/player2win_00017.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_2/player2win_00018.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_2/player2win_00019.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_2/player2win_00020.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_2/player2win_00021.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_2/player2win_00022.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_2/player2win_00023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_2/player2win_00024.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_2/player2win_00025.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_2/player2win_00026.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_2/player2win_00027.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_2/player2win_00028.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_2/player2win_00029.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_2/player2win_00030.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_2/player2win_00031.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_2/player2win_00032.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_2/player2win_00033.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_2/player2win_00034.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_2/player2win_00035.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_2/player2win_00036.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_2/player2win_00037.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_2/player2win_00038.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_2/player2win_00039.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_2/player2win_00040.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_2/player2win_00041.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_2/player2win_00042.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_2/player2win_00043.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_2/player2win_00044.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_2/player2win_00045.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_2/player2win_00046.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_2/player2win_00047.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_2/player2win_00048.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_2/player2win_00049.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_2/player2win_00050.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_2/player2win_00051.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_2/player2win_00052.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_2/player2win_00053.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_2/player2win_00054.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_2/player2win_00055.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_2/player2win_00056.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_2/player2win_00057.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_2/player2win_00058.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_2/player2win_00059.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_2/player2win_00060.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_2/player2win_00061.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_2/player2win_00062.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_2/player2win_00063.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_2/player2win_00064.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_2/player2win_00065.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_2/player2win_00066.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_2/player2win_00067.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_2/player2win_00068.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_2/player2win_00069.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_2/player2win_00070.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_2/player2win_00071.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_2/player2win_00072.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_2/player2win_00073.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_2/player2win_00074.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_2/player2win_00075.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_2/player2win_00076.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_2/player2win_00077.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_2/player2win_00078.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_2/player2win_00079.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_2/player2win_00080.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_2/player2win_00081.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_2/player2win_00082.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_2/player2win_00083.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_2/player2win_00084.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_2/player2win_00085.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_2/player2win_00086.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_2/player2win_00087.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_2/player2win_00088.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_gameover/player_win/player_2/player2win_00089.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_playing/plate_number/player1/SCREEN 2-07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_playing/plate_number/player2/SCREEN 2-06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_playing/stamina/player1/SCREEN 2-10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_playing/stamina/player2/SCREEN 2-04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_playing/static/static1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_start/SCREEN1_00000.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_start/SCREEN1_00001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_start/SCREEN1_00002.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_start/SCREEN1_00003.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_start/SCREEN1_00004.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_start/SCREEN1_00005.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_start/SCREEN1_00006.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_start/SCREEN1_00007.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_start/SCREEN1_00008.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_start/SCREEN1_00009.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_start/SCREEN1_00010.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_start/SCREEN1_00011.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_start/SCREEN1_00012.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_start/SCREEN1_00013.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_start/SCREEN1_00014.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_start/SCREEN1_00015.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_start/SCREEN1_00016.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_start/SCREEN1_00017.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_start/SCREEN1_00018.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_start/SCREEN1_00019.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_start/SCREEN1_00020.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_start/SCREEN1_00021.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_start/SCREEN1_00022.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_start/SCREEN1_00023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_start/SCREEN1_00024.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_start/SCREEN1_00025.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_start/SCREEN1_00026.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_start/SCREEN1_00027.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_start/SCREEN1_00028.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_start/SCREEN1_00029.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_start/SCREEN1_00030.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_start/SCREEN1_00031.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_start/SCREEN1_00032.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_start/SCREEN1_00033.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_start/SCREEN1_00034.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_start/SCREEN1_00035.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_start/SCREEN1_00036.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_start/SCREEN1_00037.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_start/SCREEN1_00038.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_start/SCREEN1_00039.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_start/SCREEN1_00040.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_start/SCREEN1_00041.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_start/SCREEN1_00042.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_start/SCREEN1_00043.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_start/SCREEN1_00044.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_start/SCREEN1_00045.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_start/SCREEN1_00046.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_start/SCREEN1_00047.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_start/SCREEN1_00048.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_start/SCREEN1_00049.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_start/SCREEN1_00050.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_start/SCREEN1_00051.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_start/SCREEN1_00052.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_start/SCREEN1_00053.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_start/SCREEN1_00054.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_start/SCREEN1_00055.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_start/SCREEN1_00056.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_start/SCREEN1_00057.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_start/SCREEN1_00058.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_start/SCREEN1_00059.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_start/SCREEN1_00060.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_start/SCREEN1_00061.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_start/SCREEN1_00062.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_start/SCREEN1_00063.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_start/SCREEN1_00064.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_start/SCREEN1_00065.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_start/SCREEN1_00066.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_start/SCREEN1_00067.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_start/SCREEN1_00068.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_start/SCREEN1_00069.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_start/SCREEN1_00070.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_start/SCREEN1_00071.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_start/SCREEN1_00072.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_start/SCREEN1_00073.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_start/SCREEN1_00074.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_start/SCREEN1_00075.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_start/SCREEN1_00076.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_start/SCREEN1_00077.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_start/SCREEN1_00078.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_start/SCREEN1_00079.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_start/SCREEN1_00080.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_start/SCREEN1_00081.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_start/SCREEN1_00082.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_start/SCREEN1_00083.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_start/SCREEN1_00084.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_start/SCREEN1_00085.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_start/SCREEN1_00086.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_start/SCREEN1_00087.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_start/SCREEN1_00088.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/background/background_start/SCREEN1_00089.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/ball/BallPlayer1/SCREEN 2-13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/ball/BallPlayer2/SCREEN 2-12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/bot/goal_keeper/SCREEN 2-15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/bot/goal_keeper/goal_keeper_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/bot/tornado/tornado1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/bullet/Player1Bullet/SCREEN 2-23.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/bullet/Player2Bullet/SCREEN 2-16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/bullet/Player2Bullet/black_background_and_circle-20191223T152450Z-001.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/bullet/Player2Bullet/screen2_BGM.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/bullet/Player2Bullet/screen3_BGM.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/bullet/Player2Bullet/sound-20191223T172953Z-001.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/hole/SCREEN 2-22.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/player/player1/SCREEN 2-18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/player/player2/SCREEN 2-17.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/images/tornado/SCREEN 2-14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/sound/Screen2/Bullet_to_player.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/sound/Screen2/P1shoot2.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/sound/Screen2/P2shoot2.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/sound/Screen2/disk_to_everything.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/sound/Screen2/disk_to_hole.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/sound/Screen2/into_tornado.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/sound/Screen2/last_disk_before_end_screen.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/sound/Screen2/low_boost.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/sound/Screen2/screen2_BGM.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/sound/screen1/Opening-sound.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/sound/screen1/Screen1_BGM.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/sound/screen1/click_any_button.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/sound/screen3/play again.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hockeillard_jar/assets/sound/screen3/screen3_BGM.wav" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Hockeillard/game/GameWindow$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hockeillard/game/GameWindow$2.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Hockeillard/game/GameWindow.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hockeillard/game/GameWindow.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Hockeillard/game/game_objects/background/BackgroundGameOver.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hockeillard/game/game_objects/background/BackgroundGameOver.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Hockeillard/game/game_objects/background/BackgroundPlaying.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hockeillard/game/game_objects/background/BackgroundPlaying.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hockeillard/game/game_objects/bot/hole_keeper/HoleKeeperSummoner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hockeillard/game/game_objects/bot/hole_keeper/HoleKeeperSummoner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hockeillard/game/game_objects/bot/tornado/Tornado.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hockeillard/game/game_objects/bot/tornado/Tornado.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hockeillard/game/game_objects/bullet/Bullet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hockeillard/game/game_objects/bullet/Bullet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hockeillard/game/game_objects/bullet/BulletPlayer1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hockeillard/game/game_objects/bullet/BulletPlayer1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hockeillard/game/game_objects/bullet/BulletPlayer2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hockeillard/game/game_objects/bullet/BulletPlayer2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hockeillard/game/game_objects/hole/Hole.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hockeillard/game/game_objects/hole/Hole.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hockeillard/game/game_objects/plate/Plate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hockeillard/game/game_objects/plate/Plate.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hockeillard/game/game_objects/player/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hockeillard/game/game_objects/player/Player.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hockeillard/game/game_objects/player/Player1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hockeillard/game/game_objects/player/Player1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hockeillard/game/game_objects/player/Player2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hockeillard/game/game_objects/player/Player2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hockeillard/game/scene/Scene.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hockeillard/game/scene/Scene.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hockeillard/game/scene/SceneGameOver.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hockeillard/game/scene/SceneGameOver.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hockeillard/game/scene/SceneMenu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hockeillard/game/scene/SceneMenu.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hockeillard/game/scene/ScenePlaying.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hockeillard/game/scene/ScenePlaying.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/game/GamePanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/GamePanel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/game/GameWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/GameWindow.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/game/game_objects/background/BackgroundGameOver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/game_objects/background/BackgroundGameOver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/game/game_objects/background/BackgroundMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/game_objects/background/BackgroundMenu.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/game/game_objects/background/BackgroundPlaying.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/game_objects/background/BackgroundPlaying.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/game/game_objects/bot/hole_keeper/HoleKeeperSummoner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/game_objects/bot/hole_keeper/HoleKeeperSummoner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/game/game_objects/bot/tornado/Tornado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/game_objects/bot/tornado/Tornado.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/game/game_objects/bullet/Bullet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/game_objects/bullet/Bullet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/game/game_objects/bullet/BulletPlayer1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/game_objects/bullet/BulletPlayer1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/game/game_objects/bullet/BulletPlayer2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/game_objects/bullet/BulletPlayer2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/game/game_objects/hole/Hole.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/game_objects/hole/Hole.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/game/game_objects/plate/Plate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/game_objects/plate/Plate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/game/game_objects/player/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/game_objects/player/Player.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/game/game_objects/player/Player1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/game_objects/player/Player1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/game/game_objects/player/Player2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/game_objects/player/Player2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/game/scene/Scene.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/scene/Scene.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/game/scene/SceneGameOver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/scene/SceneGameOver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/game/scene/SceneMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/scene/SceneMenu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/game/scene/ScenePlaying.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/scene/ScenePlaying.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -77,7 +346,7 @@
   <component name="ProjectId" id="1Tb850eOaDOcL1MYlYSTpAaRBwj" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Refresh the sky" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />

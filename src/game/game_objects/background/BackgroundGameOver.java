@@ -4,6 +4,7 @@ import game.GameWindow;
 import game.Settings;
 import game.game_objects.GameObject;
 import game.game_objects.player.Player1;
+import game.game_objects.player.Player2;
 import game.renderer.Animation;
 import game.scene.SceneManager;
 import game.scene.ScenePlaying;
@@ -17,8 +18,8 @@ public class BackgroundGameOver extends  GameObject {
     public BackgroundGameOver(){
         GameObject.botLayer.add(this);
         ArrayList<BufferedImage> images = new ArrayList<>();
-
-        if(Player1.plateNumber == 0) {
+        System.out.println(Player1.plateNumber + " - " + Player2.plateNumber);
+        if(Player2.plateNumber == 0) {
             for (int i = 0; i < 10;i++){
                 images.add(SpriteUtils.loadImage("assets/images/background/background_gameover/player_win/player_2/player2win_0000" + i + ".png"));
             }

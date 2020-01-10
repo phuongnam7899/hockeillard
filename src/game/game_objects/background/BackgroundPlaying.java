@@ -27,11 +27,11 @@ public class BackgroundPlaying extends GameObject {
         super.run();
 
         if(Player1.plateNumber == 0 || Player2.plateNumber == 0){
+            SceneManager.signNewScene(new SceneGameOver());
             Player1.plateNumber = 3;
             Player2.plateNumber = 3;
             Player1.stamina = 16;
             Player2.stamina = 16;
-            SceneManager.signNewScene(new SceneGameOver());
         }
     }
 }

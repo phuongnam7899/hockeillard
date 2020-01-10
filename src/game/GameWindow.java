@@ -146,12 +146,7 @@ public class GameWindow extends JFrame {
             @Override
             public void mouseClicked(MouseEvent e) {
                 super.mouseClicked(e);
-                System.out.println(e.getX() +"-"+ e.getY());
-            }
-
-            @Override
-            public void mouseEntered(MouseEvent e) {
-                super.mouseEntered(e);
+                System.out.println(e.getX() + " " + e.getY());
             }
         });
     }
